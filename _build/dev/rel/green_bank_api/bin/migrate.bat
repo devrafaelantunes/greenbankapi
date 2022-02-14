@@ -1,0 +1,1 @@
+call "%~dp0\green_bank_api" eval GreenBankApi.Release.migrate
