@@ -13,7 +13,6 @@
                         'Elixir.GreenBankApi.Model.Account',
                         'Elixir.GreenBankApi.Model.Session',
                         'Elixir.GreenBankApi.Model.Transaction',
-                        'Elixir.GreenBankApi.Release',
                         'Elixir.GreenBankApi.Repo',
                         'Elixir.GreenBankApi.Utils.Decimal',
                         'Elixir.GreenBankApiWeb',
